@@ -1,4 +1,5 @@
 from pyrogram import Client, filters
+from pyrogram import Message
 
 Santhu=Client(
     "New bot", 
