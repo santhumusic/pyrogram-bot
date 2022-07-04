@@ -5,7 +5,7 @@ Santhu=Client(
     "New bot", 
     api_id="11318835", 
     api_hash="945c95cddeb82bf8193a8cabfeb1f958", 
-    bot_token="5511885320:AAEO0OjBCFSMoKmpndNCUEs7PtjYSDYwbdk",
+    bot_token="5511885320:AAEO0OjBCFSMoKmpndNCUEs7PtjYSDYwbdk"
 ) 
 
 
