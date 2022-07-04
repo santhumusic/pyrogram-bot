@@ -2,9 +2,9 @@ from pyrogram import Client, filters
 
 Santhu=Client(
     "New bot", 
-    "api_id="your api id", 
-    "api_hash="your api hash here", 
-    "bot_token="your bot token",
+    "api_id="11318835", 
+    "api_hash="945c95cddeb82bf8193a8cabfeb1f958", 
+    "bot_token="5511885320:AAEO0OjBCFSMoKmpndNCUEs7PtjYSDYwbdk",
 ) 
 
 
