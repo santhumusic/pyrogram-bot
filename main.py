@@ -15,3 +15,7 @@ async def start(bot, message):
 @Santhu.on_message(filters.command("help"))
 async def help(bot, message):
     await message.reply_text("this is the help for you click the below buttons☺")
+
+
+
+Santhu.run() 
