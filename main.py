@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram import Message
 
-Santhu=Client(
+Santhu = Client(
     "New bot",
     bot_token="5511885320:AAEO0OjBCFSMoKmpndNCUEs7PtjYSDYwbdk", 
     api_id="11318835", 
