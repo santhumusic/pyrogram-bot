@@ -1,8 +1,0 @@
-version: "2.0"
-services:
-  worker:
-    build: .
-    environment:
-      api_id: $api_id
-      api_hash: $api_hash
-      bot_token: $bot_token
