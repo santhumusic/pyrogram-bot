@@ -6,7 +6,7 @@
         "santhuOfficial",
         "python"
     ],
-    "repository": "https://github.com/santhumusic/santhuofficialbot",
+    "repository": "https://github.com/santhumusic/pyrogram-bot",
     "env": {
         "API_HASH": {
             "description": "",
