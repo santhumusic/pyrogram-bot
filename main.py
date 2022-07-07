@@ -3,9 +3,9 @@ from pyrogram import Message
 
 Santhu = Client(
     "New bot",
-    bot_token="5511885320:AAEO0OjBCFSMoKmpndNCUEs7PtjYSDYwbdk", 
-    api_id="11318835", 
-    api_hash="945c95cddeb82bf8193a8cabfeb1f958"
+    bot_token="", 
+    api_id="", 
+    api_hash=""
 ) 
 
 @Santhu.on_message(filters.command("start"))
